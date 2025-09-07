@@ -3,7 +3,7 @@
 🎓 Computer Science student at the University of the Free State<br/> 
 🧠 Passionate about solving real-world problems through thoughtful code<br/>
 🔍 Constantly exploring new technologies, architectures, and ideas<br/> 
-📱 Currently diving deep into mobile app development, privacy-first design, and scalable systems
+📱 Currently diving deep into machine learning
 
 Let’s connect, collaborate, and create something meaningful.
 
