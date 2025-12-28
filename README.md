@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Justice
 
-🎓 Computer Science student at the University of the Free State<br/> 
+🎓 Computer Science & Mathematics student at the University of the Free State<br/> 
 🧠 Passionate about solving real-world problems through thoughtful code<br/>
 🔍 Constantly exploring new technologies, architectures, and ideas<br/> 
 📱 Currently diving deep into machine learning
