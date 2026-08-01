@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Justice<br><br>🎓 Data Science student at the University of the Free State<br/> <br>🧠 Passionate about solving real-world problems through thoughtful code<br/><br>🔍 Constantly exploring new technologies, architectures, and ideas<br/> <br>🤖 Currently diving deep into machine learning<br><br>Let’s connect, collaborate, and create something meaningful.
+👋 Hi, I'm Justice<br><br>🎓 Data Science student at the University of the Free State<br/> <br>🧠 Passionate about solving real-world problems through mathematics, statistics, and technology<br/><br>🤖 Currently exploring machine learning<br><br>Let’s connect, collaborate, and create something meaningful.
 
 
 ## 🌐 Socials:
